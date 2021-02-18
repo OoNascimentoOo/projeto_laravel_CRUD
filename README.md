@@ -7,3 +7,6 @@ sendo o primeiro sistema school é vinculado a escola, e o outro sistema course 
 Ambos os sistemas contem o mesmo propósito para o determinado fim que foi proposto. 
 
 Obs: Na pasta (Dump20210217) encontra-se as tableas do banco de dados. 
+#########################################################################
+create database: crud;
+use crud;
