@@ -5,3 +5,5 @@ sendo assim a API foi feita com os respectivos verbos http incluidos nas rotas d
 Observação: ao fazer login no sistema, na rota /public existe dois tipos de sistema para cadastrar, manipular, atualizar, e deletar dados.
 sendo o primeiro sistema school é vinculado a escola, e o outro sistema course é vinculado ao curso.
 Ambos os sistemas contem o mesmo propósito para o determinado fim que foi proposto. 
+
+Obs: Na pasta (Dump20210217) encontra-se as tableas do banco de dados. 
