@@ -10,3 +10,5 @@ Obs: Na pasta (Dump20210217) encontra-se as tableas do banco de dados.
 ## Obs:
 create database: crud;
 use crud;
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=OoNascimentoOo&layout=compact)](https://github.com/OoNascimentoOo/github-readme-stats)
